@@ -1,2 +1,2 @@
-- PHP Framework: CodeIgniter v2.2.0
-- Front-end Framework: Bootstrap v3.2.0
+- PHP Framework: CodeIgniter v.2.2.1
+- Front-end Framework: Bootstrap v3.3.4
