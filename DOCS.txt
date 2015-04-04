@@ -1,0 +1,2 @@
+- PHP Framework: CodeIgniter v2.2.0
+- Front-end Framework: Bootstrap v3.2.0
