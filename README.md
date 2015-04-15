@@ -2,4 +2,4 @@
 Codeigniter with native php session + twitter bootstrap 
 
 - PHP Framework: CodeIgniter v.2.2.1
-- Front-end Framework: Bootstrap v3.3.4
+- Front-end Framework: Bootstrap v3.3.4 + jQuery 1.11.2
